@@ -6,16 +6,14 @@ using TMPro;
 
 public class LevelUp : MonoBehaviour
 {
-
     public GameObject LevelUPCanvas;
     public GameObject Player;
     public bool LevelUpDone = false;
     public Slider slider;
-    private int level = 0;
+    private int level = 0; //This variable control whole levels of game
     private int XP;
     public TextMeshProUGUI levelNumber;
     
-    // Start is called before the first frame update
     void Start()
     {
         PlayerPrefs.SetInt("XP",0);
