@@ -30,52 +30,52 @@ public class LevelUp : MonoBehaviour
     void Update()
     {
         XP = PlayerPrefs.GetInt("XP");
-        sliderValueChanger();
-        if(XP == 20 && LevelUpDone == false)
-        {
-            Time.timeScale = 0;
-            LevelUPCanvas.SetActive(true);
-            LevelUpDone = true;
-            slider.maxValue = 50;
-            level = 1;
-            levelNumber.text = "LV 1";
-        }
-        if(XP == 21)
-        {
-            LevelUpDone = false;
-        }
-        if(XP == 50 && LevelUpDone == false)
-        {
-            Time.timeScale = 0;
-            LevelUPCanvas.SetActive(true);
-            LevelUpDone = true;
-            level = 2;
-            levelNumber.text = "LV 2";
-        }
-        if(XP == 51)
-        {
-            LevelUpDone = false;
-        }
-        if(XP == 100 && LevelUpDone == false)
-        {
-            Time.timeScale = 0;
-            LevelUPCanvas.SetActive(true);
-            LevelUpDone = true;
-            level = 3;
-            levelNumber.text = "LV 3";
-        }
-        if(XP == 101)
-        {
-            LevelUpDone = false;
-        }
-        if(XP == 200 && LevelUpDone == false)
-        {
-            Time.timeScale = 0;
-            LevelUPCanvas.SetActive(true);
-            LevelUpDone = true;
-            level = 4;
-            levelNumber.text = "LV 4";
-        }
+        //sliderValueChanger();
+        //if(XP == 20 && LevelUpDone == false)
+        //{
+        //    Time.timeScale = 0;
+        //    LevelUPCanvas.SetActive(true);
+        //    LevelUpDone = true;
+        //    slider.maxValue = 50;
+        //    level = 1;
+        //    levelNumber.text = "LV 1";
+        //}
+        //if(XP == 21)
+        //{
+        //    LevelUpDone = false;
+        //}
+        //if(XP == 50 && LevelUpDone == false)
+        //{
+        //    Time.timeScale = 0;
+        //    LevelUPCanvas.SetActive(true);
+        //    LevelUpDone = true;
+        //    level = 2;
+        //    levelNumber.text = "LV 2";
+        //}
+        //if(XP == 51)
+        //{
+        //    LevelUpDone = false;
+        //}
+        //if(XP == 100 && LevelUpDone == false)
+        //{
+        //    Time.timeScale = 0;
+        //    LevelUPCanvas.SetActive(true);
+        //    LevelUpDone = true;
+        //    level = 3;
+        //    levelNumber.text = "LV 3";
+        //}
+        //if(XP == 101)
+        //{
+        //    LevelUpDone = false;
+        //}
+        //if(XP == 200 && LevelUpDone == false)
+        //{
+        //    Time.timeScale = 0;
+        //    LevelUPCanvas.SetActive(true);
+        //    LevelUpDone = true;
+        //    level = 4;
+        //    levelNumber.text = "LV 4";
+        //}
     }
 
     #region Handle upgrade player activities
@@ -114,7 +114,7 @@ public class LevelUp : MonoBehaviour
         }
         if(level == 4)
         {
-            slider.value = XP -200;
+            slider.value = XP - 200;
         }
     }
 
@@ -122,15 +122,29 @@ public class LevelUp : MonoBehaviour
     //New code by BaoHQ - 06/02/2024
     private void SettingStart()
     {
-        nextLvlTargetScore = 50;
+        nextLvlTargetScore = 20;
+        UpdateUIs();
     }
-    private void sliderValueChange()
+    private void UpdateUIs()
     {
-
+        levelNumber.text = "LV " + level.ToString();
+        sliderValueChanger();
     }
-    private void DecideNextLevelPropeties()
+    private void DecideNextLevelPropeties(int lvl)
     {
         //This function will be call everytime player reach new level
-
+        nextLvlTargetScore = lvl * 20;
+        print(nextLvlTargetScore);
+    }
+    internal void OnLevelUp() 
+    {
+        print(XP);
+        if (XP == nextLvlTargetScore) 
+        {
+            level++;
+            DecideNextLevelPropeties(level);
+            UpdateUIs();
+        }        
+        sliderValueChanger();
     }
 }
