@@ -133,18 +133,20 @@ public class LevelUp : MonoBehaviour
     private void DecideNextLevelPropeties(int lvl)
     {
         //This function will be call everytime player reach new level
-        nextLvlTargetScore = lvl * 20;
-        print(nextLvlTargetScore);
+        if(lvl == 0) nextLvlTargetScore = 20;
+        else if(lvl >= 1) nextLvlTargetScore = lvl * 50; 
     }
     internal void OnLevelUp() 
     {
-        print(XP);
         if (XP == nextLvlTargetScore) 
         {
             level++;
+            Time.timeScale = 0;
+            LevelUPCanvas.SetActive(true);
+            //LevelUpDone = true;
             DecideNextLevelPropeties(level);
             UpdateUIs();
-        }        
+        }       
         sliderValueChanger();
     }
 }
