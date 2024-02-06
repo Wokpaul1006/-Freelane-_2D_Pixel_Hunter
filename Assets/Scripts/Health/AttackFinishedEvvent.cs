@@ -9,8 +9,9 @@ public class AttackFinishedEvvent : MonoBehaviour
 
     public void FinishedAttacke()
     {
-      if(Sword !=null){
-      Sword.SetActive(false);
-      }
+        if(Sword !=null)
+        {
+            Sword.SetActive(false);
+        }
     }
 }
