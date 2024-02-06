@@ -1,0 +1,1511 @@
+fileFormatVersion: 2
+guid: 294f5d2ab07177e4780b5cd19475761f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf23ab638973344fa61e297a57ca69d
+      internalID: -691306195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 99
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8425fafd0fa853c48864ea1bc3d044a9
+      internalID: 1011504140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 99
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624a95f70be8aa74d8297c4396254bf9
+      internalID: 119228710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 99
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee42ead4518d274594bbc9e35667a73
+      internalID: -1557030293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_4
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 99
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1df272cc571c754aa8bf378a38fd3b9
+      internalID: -1465662890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_5
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 99
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b5e75c2abd5b14ea72c213a8077aec
+      internalID: 258248875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_6
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 99
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cb46cc9c25391458b999599b715c4f
+      internalID: -1661049519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_7
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 99
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b7ac729694454409bd5174c478627f
+      internalID: 1702448456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_8
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 99
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b057b55ee2b5f94bb2e4a3c6b27d75b
+      internalID: 1806632985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_9
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 99
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53245b339afd4bb42be4fd538e9b37e6
+      internalID: 444600938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_10
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 99
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c6cee344eadfc4f9d41bbf35837ac6
+      internalID: 102238768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_11
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 99
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d71f7bbc3fa5b41b9261bd97938857
+      internalID: 970694824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b37bfc14058fc42a1df86e7ca8b69f
+      internalID: -258801908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 66
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b515c4017b5bfe24d910d0051aa302ef
+      internalID: 132744240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_14
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 66
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b68184e0e878248a2730d224939518
+      internalID: 323435544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_15
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 66
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6468e1b0dea04a42848cd8e62b9f78d
+      internalID: -1177095750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_16
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 66
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731d3031250e1fd4c9eff91f84a5d256
+      internalID: 301431373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_17
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 66
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03192b3fe78868b45be4e2f64c6ed4fc
+      internalID: -94624669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_18
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 66
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df715e86761ef1469b73752880b52d1
+      internalID: -1725100287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_19
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 66
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb2b81a24f3dcd4e8b034a19750881e
+      internalID: -330131082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea811322daaae9b48a897735c620aca7
+      internalID: -938784057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_21
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 33
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88ba22ffa2880a4bac2370268b476aa
+      internalID: -1362585974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_22
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 33
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ae315efbd30504eb8bc1f677498396
+      internalID: 1979434618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_23
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 33
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae575b4727baa6c4cb5c4d8552a65d49
+      internalID: 785270233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_24
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 33
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301317722797cf14ca70dad54b2f3360
+      internalID: 1721293805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_25
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 33
+        width: 136
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fd686fe8473dc4b9a2e3b35ea3a8a1
+      internalID: -2125970358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_26
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 33
+        width: 82
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6191b9d741cd14abad58b6cd4c2a39
+      internalID: -880129792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_27
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 33
+        width: 77
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36514c0fd911d1e438376c0ab382162e
+      internalID: 23732262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_28
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 33
+        width: 76
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c4c78f84abc9f45be882c2809af9d4
+      internalID: -585605067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_29
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 33
+        width: 72
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c55816b65d3ef44097b672bcd76dbd3
+      internalID: 848138873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_30
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 33
+        width: 64
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e292c3604840d4c84aaa9691d99fe0
+      internalID: -631282183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_31
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 33
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc86dc991a25eb4d8ba1c831564764c
+      internalID: -442002463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_32
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 33
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d421de5b47b514845bbe9e0fa7fc4ad1
+      internalID: 217295270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_33
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 33
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa2b50b543d07c479312cc15aeb2a55
+      internalID: 543914483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_34
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 33
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf07404eea9d40d4982a5d7c9ccf33f1
+      internalID: 1295783053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_35
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 33
+        width: 100
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d4f919040920c499d6aac13c9a7bf4
+      internalID: 943665777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_36
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 33
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8703ddbc24699a648af2cfdae1500ec9
+      internalID: -1110166292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_37
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 33
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c9ba0c908f9f649b42f673ca3964d1
+      internalID: -1840842763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_38
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 33
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030cc1f444c5e0745a980d459a8ccb16
+      internalID: -1367755740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af84e3f761ae93549b655e28892e251b
+      internalID: 2017167889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_40
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d48f886fb72b2747bd46f2e4b305f37
+      internalID: -1860531728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_41
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4f321b2573176459954d4bcb518ba8
+      internalID: -1982982490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_42
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e227841e320ef594d830a07d5abf896d
+      internalID: 331233385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_43
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 0
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f838d521b2a46d4fa87b012532dc42b
+      internalID: -109544311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_44
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 0
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6665d6b417ed9447a0e411625705a72
+      internalID: -1468184847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_45
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 0
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1254f252da985c347b9010c9260d2949
+      internalID: 40887081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_46
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 0
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00499a9baf000bb41a6dfa67cc0636e0
+      internalID: -1972147525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_47
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 0
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2c19b7f3a6a064b94ce4f00d396f3e
+      internalID: 1927525536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_48
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 0
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c174381b10c634b9a177e94dcf2196
+      internalID: 1653657221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_49
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 0
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f420a5586607cf479c3e8e20d02238e
+      internalID: 1233899742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_50
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 0
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e60740341652048b8bf43947748c49
+      internalID: -399123321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_51
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 0
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316c39bae0de1e4458d17d9cc7fb644c
+      internalID: 1222593244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_52
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 0
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52eabca7019aa974ab3ca4c727ef03a1
+      internalID: 192211241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_53
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 0
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83603a9c53197064bafa1a8bacacc184
+      internalID: -667501200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_54
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 0
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d407e52a612d92740b1189d83541a09a
+      internalID: 651014068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_55
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 0
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45b4d26c6c1a9446aaf93d7ddccae03
+      internalID: 284086659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_56
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 0
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a359f2b6ab50e4b82e2324167fcfcc
+      internalID: -1838946158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_57
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 0
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cc469d9e7ad2246ae6a9fbce9cbe24
+      internalID: -785612694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_58
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 0
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3d8733b02bf7c4ca462c9344c9e12b
+      internalID: -1793767588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_59
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 0
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0987adf8181a2e64a96c61a6c744844d
+      internalID: 1771413799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_60
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 0
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894056f94c4b6f347853f81d5f409fb5
+      internalID: 1818904634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi Samurai with Spear 107x33_61
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 0
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8b84b2ff3341d478688f08e6412105
+      internalID: 1020903575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sci-fi Samurai with Spear 107x33_0: -691306195
+      Sci-fi Samurai with Spear 107x33_1: 1011504140
+      Sci-fi Samurai with Spear 107x33_10: 102238768
+      Sci-fi Samurai with Spear 107x33_11: 970694824
+      Sci-fi Samurai with Spear 107x33_12: -258801908
+      Sci-fi Samurai with Spear 107x33_13: 132744240
+      Sci-fi Samurai with Spear 107x33_14: 323435544
+      Sci-fi Samurai with Spear 107x33_15: -1177095750
+      Sci-fi Samurai with Spear 107x33_16: 301431373
+      Sci-fi Samurai with Spear 107x33_17: -94624669
+      Sci-fi Samurai with Spear 107x33_18: -1725100287
+      Sci-fi Samurai with Spear 107x33_19: -330131082
+      Sci-fi Samurai with Spear 107x33_2: 119228710
+      Sci-fi Samurai with Spear 107x33_20: -938784057
+      Sci-fi Samurai with Spear 107x33_21: -1362585974
+      Sci-fi Samurai with Spear 107x33_22: 1979434618
+      Sci-fi Samurai with Spear 107x33_23: 785270233
+      Sci-fi Samurai with Spear 107x33_24: 1721293805
+      Sci-fi Samurai with Spear 107x33_25: -2125970358
+      Sci-fi Samurai with Spear 107x33_26: -880129792
+      Sci-fi Samurai with Spear 107x33_27: 23732262
+      Sci-fi Samurai with Spear 107x33_28: -585605067
+      Sci-fi Samurai with Spear 107x33_29: 848138873
+      Sci-fi Samurai with Spear 107x33_3: -1557030293
+      Sci-fi Samurai with Spear 107x33_30: -631282183
+      Sci-fi Samurai with Spear 107x33_31: -442002463
+      Sci-fi Samurai with Spear 107x33_32: 217295270
+      Sci-fi Samurai with Spear 107x33_33: 543914483
+      Sci-fi Samurai with Spear 107x33_34: 1295783053
+      Sci-fi Samurai with Spear 107x33_35: 943665777
+      Sci-fi Samurai with Spear 107x33_36: -1110166292
+      Sci-fi Samurai with Spear 107x33_37: -1840842763
+      Sci-fi Samurai with Spear 107x33_38: -1367755740
+      Sci-fi Samurai with Spear 107x33_39: 2017167889
+      Sci-fi Samurai with Spear 107x33_4: -1465662890
+      Sci-fi Samurai with Spear 107x33_40: -1860531728
+      Sci-fi Samurai with Spear 107x33_41: -1982982490
+      Sci-fi Samurai with Spear 107x33_42: 331233385
+      Sci-fi Samurai with Spear 107x33_43: -109544311
+      Sci-fi Samurai with Spear 107x33_44: -1468184847
+      Sci-fi Samurai with Spear 107x33_45: 40887081
+      Sci-fi Samurai with Spear 107x33_46: -1972147525
+      Sci-fi Samurai with Spear 107x33_47: 1927525536
+      Sci-fi Samurai with Spear 107x33_48: 1653657221
+      Sci-fi Samurai with Spear 107x33_49: 1233899742
+      Sci-fi Samurai with Spear 107x33_5: 258248875
+      Sci-fi Samurai with Spear 107x33_50: -399123321
+      Sci-fi Samurai with Spear 107x33_51: 1222593244
+      Sci-fi Samurai with Spear 107x33_52: 192211241
+      Sci-fi Samurai with Spear 107x33_53: -667501200
+      Sci-fi Samurai with Spear 107x33_54: 651014068
+      Sci-fi Samurai with Spear 107x33_55: 284086659
+      Sci-fi Samurai with Spear 107x33_56: -1838946158
+      Sci-fi Samurai with Spear 107x33_57: -785612694
+      Sci-fi Samurai with Spear 107x33_58: -1793767588
+      Sci-fi Samurai with Spear 107x33_59: 1771413799
+      Sci-fi Samurai with Spear 107x33_6: -1661049519
+      Sci-fi Samurai with Spear 107x33_60: 1818904634
+      Sci-fi Samurai with Spear 107x33_61: 1020903575
+      Sci-fi Samurai with Spear 107x33_7: 1702448456
+      Sci-fi Samurai with Spear 107x33_8: 1806632985
+      Sci-fi Samurai with Spear 107x33_9: 444600938
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,547 @@
+fileFormatVersion: 2
+guid: 1578698c057d6624c80c8aaa39b2f1a0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spell 1-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 152
+        width: 75
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d211fe92483044d95b1a8d3679c6a9
+      internalID: 502205589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell 1-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 152
+        width: 92
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4238fa4e39cc14d865e20a5299c74f
+      internalID: 2012760139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell 1-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 152
+        width: 72
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce028db038a4414cb52c118a9127c9d
+      internalID: -1340552570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell 1-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 152
+        width: 68
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4aa1146e44a804ebfa4caba8d498cb
+      internalID: -1891969755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell 1-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 152
+        width: 69
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2dffed7efc45c4dba16781405a76d0
+      internalID: 1135649889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell 1-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 154
+        width: 83
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2c7df926a916e45b9de2de9262813c
+      internalID: 813062636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell 1-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 152
+        width: 86
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6715cb59f3aa35c40bb26486d2950e82
+      internalID: -1865015692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell 1-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 18
+        width: 90
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdb8e779dec54647bf6f719a76803e8
+      internalID: 1048416949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell 1-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 12
+        width: 85
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb34bc7973e882f4fa0b1c46476ae6d7
+      internalID: -1406682268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell 1-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 15
+        width: 86
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36f5f001c124be46a1744b29921ebef
+      internalID: -316567014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell 1-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 17
+        width: 89
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1bd4efdc0371341ab328a0f93073f2
+      internalID: 1430609392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell 1-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 20
+        width: 90
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97736f961e885e48b5854a862a1298b
+      internalID: 1341304228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell 1-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 20
+        width: 90
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554d1eea0a2e1d4409830d6dba0669c6
+      internalID: -689769246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell 1-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 21
+        width: 90
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d8cb8e77406d84bbe9f719f7f4991b
+      internalID: -1036069784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Spell 1-Sheet_0: 502205589
+      Spell 1-Sheet_1: -689769246
+      Spell 1-Sheet_10: 813062636
+      Spell 1-Sheet_100: 397703147
+      Spell 1-Sheet_101: -1635312176
+      Spell 1-Sheet_102: 915222316
+      Spell 1-Sheet_103: 1442565973
+      Spell 1-Sheet_104: 1318350034
+      Spell 1-Sheet_105: 1801446385
+      Spell 1-Sheet_11: -1982623467
+      Spell 1-Sheet_12: 1975405095
+      Spell 1-Sheet_13: 1662398906
+      Spell 1-Sheet_14: -784235790
+      Spell 1-Sheet_15: 1785222392
+      Spell 1-Sheet_16: -474088383
+      Spell 1-Sheet_17: -1865015692
+      Spell 1-Sheet_18: -910451500
+      Spell 1-Sheet_19: 659086405
+      Spell 1-Sheet_2: -1036069784
+      Spell 1-Sheet_20: -1623866661
+      Spell 1-Sheet_21: 1525079307
+      Spell 1-Sheet_22: -332464760
+      Spell 1-Sheet_23: -1044008066
+      Spell 1-Sheet_24: -1539221533
+      Spell 1-Sheet_25: -133738843
+      Spell 1-Sheet_26: -102928866
+      Spell 1-Sheet_27: 1048416949
+      Spell 1-Sheet_28: 1195510585
+      Spell 1-Sheet_29: 1749153486
+      Spell 1-Sheet_3: 1097089625
+      Spell 1-Sheet_30: 684001475
+      Spell 1-Sheet_31: -1053862320
+      Spell 1-Sheet_32: -249981719
+      Spell 1-Sheet_33: -2029395228
+      Spell 1-Sheet_34: 1467333626
+      Spell 1-Sheet_35: 1223975378
+      Spell 1-Sheet_36: 1925877487
+      Spell 1-Sheet_37: 1983747989
+      Spell 1-Sheet_38: 99448332
+      Spell 1-Sheet_39: -253008130
+      Spell 1-Sheet_4: 2012760139
+      Spell 1-Sheet_40: -637593549
+      Spell 1-Sheet_41: 1423793691
+      Spell 1-Sheet_42: -925861942
+      Spell 1-Sheet_43: -1406682268
+      Spell 1-Sheet_44: -219002074
+      Spell 1-Sheet_45: -316567014
+      Spell 1-Sheet_46: -1472048610
+      Spell 1-Sheet_47: -2000636256
+      Spell 1-Sheet_48: -93699540
+      Spell 1-Sheet_49: 1352912461
+      Spell 1-Sheet_5: -1340552570
+      Spell 1-Sheet_50: 928077312
+      Spell 1-Sheet_51: 236298965
+      Spell 1-Sheet_52: -1326862773
+      Spell 1-Sheet_53: -245477847
+      Spell 1-Sheet_54: -1073076369
+      Spell 1-Sheet_55: -423064665
+      Spell 1-Sheet_56: -1769484609
+      Spell 1-Sheet_57: -1468308515
+      Spell 1-Sheet_58: 1450942282
+      Spell 1-Sheet_59: -1813316131
+      Spell 1-Sheet_6: -1891969755
+      Spell 1-Sheet_60: -974310778
+      Spell 1-Sheet_61: 1854409751
+      Spell 1-Sheet_62: 2068384973
+      Spell 1-Sheet_63: 1430609392
+      Spell 1-Sheet_64: 1319772174
+      Spell 1-Sheet_65: 1857971787
+      Spell 1-Sheet_66: -1789592210
+      Spell 1-Sheet_67: 676407592
+      Spell 1-Sheet_68: 556643065
+      Spell 1-Sheet_69: -1803995829
+      Spell 1-Sheet_7: 1135649889
+      Spell 1-Sheet_70: 1247136432
+      Spell 1-Sheet_71: -19962288
+      Spell 1-Sheet_72: -1290209973
+      Spell 1-Sheet_73: 1172480729
+      Spell 1-Sheet_74: -758275491
+      Spell 1-Sheet_75: -1043240531
+      Spell 1-Sheet_76: -1554593873
+      Spell 1-Sheet_77: 1341304228
+      Spell 1-Sheet_78: -1894227131
+      Spell 1-Sheet_79: 777097002
+      Spell 1-Sheet_8: 1029298055
+      Spell 1-Sheet_80: -1142972859
+      Spell 1-Sheet_81: 1637079635
+      Spell 1-Sheet_82: -1583181953
+      Spell 1-Sheet_83: 2145736880
+      Spell 1-Sheet_84: -1447237261
+      Spell 1-Sheet_85: -22599181
+      Spell 1-Sheet_86: 1013719947
+      Spell 1-Sheet_87: -353165349
+      Spell 1-Sheet_88: 1755602901
+      Spell 1-Sheet_89: 1509804842
+      Spell 1-Sheet_9: -1744777881
+      Spell 1-Sheet_90: -1822396410
+      Spell 1-Sheet_91: -1275684438
+      Spell 1-Sheet_92: -49016779
+      Spell 1-Sheet_93: 384631039
+      Spell 1-Sheet_94: 1704512267
+      Spell 1-Sheet_95: -1916781357
+      Spell 1-Sheet_96: 557355529
+      Spell 1-Sheet_97: 1609852807
+      Spell 1-Sheet_98: -401012557
+      Spell 1-Sheet_99: -618857936
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
